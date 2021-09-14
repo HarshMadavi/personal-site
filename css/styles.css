@@ -1,0 +1,148 @@
+.top-container {
+  padding: 100px;
+  background-color: #d4ecdd;
+  position: relative;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size:90px;
+  color:#66bfbf;
+}
+
+p{
+  line-height: 2;
+}
+
+.a-programmer{
+    font-size:1.5rem;
+    color:#66bfbf;
+    font-weight: normal;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  COLOR:#11999E;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    COLOR:#11999E;
+}
+
+.middle-container {
+    background-color: white;
+    margin:100px 0px;
+}
+
+.skill-row {
+    width:50%;
+    margin:150px auto 150px auto;
+    text-align:left;
+}
+
+.btn{
+  display: inline-block;
+  padding: 20px 25px;
+  font-size: 20px;
+  color:white;
+  background-color:#11999E;
+  border:solid;
+  border-width:2px;
+  box-shadow: 1px 1px 6px 0px #000000;
+  text-shadow: 1px 1px 6px #000000;
+  border-radius:25px;
+  font-family:sans-serif;
+  border-color:#11999E;
+  text-decoration: none;
+}
+.btn:hover{
+  background-color:#006e72;
+  border-color:#006e72;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 200px;
+  left: 400px;
+}
+
+.html-img{
+  width:25%;
+  float:left;
+  padding-right:30px;
+}
+
+.css-img{
+  width:25%;
+  float:right;
+  padding-right:30px;
+}
+
+.bottom-container{
+  padding:30px;
+  background-color:#66bfbf;
+}
+
+.footer-link{
+  padding-left:5px;
+  padding-right:5px;
+}
+
+.contact-p{
+  width:40%;
+  margin: 40px auto 60px;
+}
+
+hr{
+  border-style:dotted none none none;
+  width: 5%;
+  border-width:6px;
+  border-color:#cfcfcf;
+  margin: 50px auto 50px;
+}
+
+  h2{
+  font-size:40px;
+}
+.linkedin{
+  height:40px;
+}
+.twitter{
+  height:40px;
+}
+.old-website{
+  height:40px;
+}
+.linkedin:hover{
+  border-radius:20%;
+  box-shadow: 1px 1px 10px 4px rgb(255, 255, 255);
+}
+.twitter:hover{
+  border-radius:100%;
+  box-shadow: 1px 1px 10px 4px rgb(255, 255, 255);
+}
+.old-website:hover{
+  border-radius:100%;
+  box-shadow: 1px 1px 10px 4px rgb(255, 255, 255);
+}
+
+.copyright{
+  color:#EAF6F6;
+}
